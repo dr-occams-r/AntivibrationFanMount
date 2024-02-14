@@ -1,1 +1,18 @@
 See .scad file comments
+
+
+Antivibration Fan Mount
+  TPU Flexible mount
+  Vibration transfer greatly reduced between fan and base/frame
+  Mount with screws to base
+  Mount fan into sleeve with friction/tension
+  No direct hard contact between fan and base
+  This does not address sound transmission directly via air
+  Possibly in a later muffler design
+
+Print Notes:
+  TPU
+  0.4mm Nozzle, 0.2mm Height, First Layer Width 0.5mm
+  Infill 25% Cubic
+  Lines: 1 Perimeter
+  Full Layers: 2 Bottom, 5 Top
